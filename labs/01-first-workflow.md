@@ -80,6 +80,6 @@ Expected result:
 | YAML error | Check indentation. YAML uses spaces, not tabs. |
 
 
-## Cleanup or next step
+## next step
 
-Keep the workflow or compare it with `solutions/workflows/01-first-ci.yml`.
+Continue to [Lab 02: nodejs-ci](02-nodejs-ci.md).
